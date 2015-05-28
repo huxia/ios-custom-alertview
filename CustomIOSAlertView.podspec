@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/wimagguc/ios-custom-alertview.git", :tag => "0.9.3" }
+  s.source       = { :git => "https://github.com/huxia/ios-custom-alertview.git" }
 
   s.source_files  = "CustomIOSAlertView/CustomIOSAlertView/View/**/*.{h,m}"
 
